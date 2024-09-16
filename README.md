@@ -1,8 +1,8 @@
 # BoilerLabs DOCS
 
-A collection of clean and modular **documentation templates** designed to kickstart your open-source projects. These boilerplates cover everything from simple README files to more detailed documentation structures with examples, stats, and contributing guidelines.
-
 ![BoilerLabs Cover](./assets/cover.jpg)
+
+A collection of clean and modular **documentation templates** designed to kickstart your open-source projects. These boilerplates cover everything from simple README files to more detailed documentation structures with examples, stats, and contributing guidelines.
 
 ## Table of Contents
 1. [Features](#features)
