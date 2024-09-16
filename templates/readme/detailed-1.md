@@ -6,7 +6,7 @@ A concise description of the project that highlights its purpose and utility.
 
 ---
 
-![Project Preview](./preview.png)
+![Project Preview](../../assets/cover.jpg)
 
 ## ✨ Features
 - ✅ Feature 1: Brief explanation.

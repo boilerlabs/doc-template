@@ -4,7 +4,7 @@ A brief but engaging description of the project. What it does and why it’s awe
 
 ![Stars](https://img.shields.io/github/stars/yourusername/yourproject) ![Forks](https://img.shields.io/github/forks/yourusername/yourproject) ![Issues](https://img.shields.io/github/issues/yourusername/yourproject)
 
-![Project Preview](./preview.png)
+![Project Preview](../../assets/cover.jpg)
 
 ## 📑 Table of Contents
 1. [✨ Features](#-features)
