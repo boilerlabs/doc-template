@@ -10,18 +10,18 @@ A collection of clean and modular **documentation templates** designed to kickst
 5. [License](#license)
 
 ## Features
-- 🚀 **Ready-to-use templates** for README, contributing guidelines, and more.
-- 🧩 Modular design for easy customization.
-- 📦 Templates include minimal and detailed versions with images, emojis, and stats.
-- 🔥 Perfect for any project: Node.js, Java, Spring, and more.
+- Ready-to-use templates for README, contributing guidelines, and more.
+- Modular design for easy customization.
+- Templates include minimal and detailed versions with images, emojis, and stats.
+- Perfect for any project: Node.js, Java, Spring, and more.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/boilerlabs/documentation
-cd documentation
+git clone https://github.com/boilerlabs/docs
+cd docs
 ```
    
 2. Choose the template you need from the available directories (e.g., `README minimal`, `README detailed`, `CONTRIBUTING`, etc.).
